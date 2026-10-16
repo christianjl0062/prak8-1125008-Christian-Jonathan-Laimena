@@ -31,7 +31,7 @@ public class App {
             if (mainChoice.equals("1")) {
                 menuMahasiswa();
             } else if (mainChoice.equals("2")) {
-                menuJurusan(); // Sekarang sudah ada!
+                menuJurusan();
             } else if (mainChoice.equals("3")) {
                 menuMataKuliah();
             } else if (mainChoice.equals("0")) {
